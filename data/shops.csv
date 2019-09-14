@@ -62,9 +62,9 @@ ShopID,Name,Food,Clothing,Furniture,Electronics,Accessories,Grocery,Cosmetics,To
 61,Maybelline,0,0,0,0,0,0,1,0
 62,LG,0,0,0,1,0,0,0,0
 63,Apple Store,0,0,0,1,0,0,0,0
-64,Boss,0,0,0,0,0,0,1,0
-65,boAt,0,0,0,0,0,0,1,0
-66,Sony,0,0,0,0,0,0,1,0
+64,Bose,0,0,0,1,0,0,0,0
+65,boAt,0,0,0,1,0,0,0,0
+66,Sony,0,0,0,1,0,0,0,0
 67,Krispy Kreme,1,0,0,0,0,0,0,0
 68,Vasanta Bhavan,1,0,0,0,0,0,0,0
 69,Aryas,1,0,0,0,0,0,0,0
