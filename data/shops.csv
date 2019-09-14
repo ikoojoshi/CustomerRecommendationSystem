@@ -1,0 +1,71 @@
+ShopID,Name,Food,Clothing,Furniture,Electronics,Accessories,Grocery,Cosmetics,Toys
+1,Papa Johns,1,0,0,0,0,0,0,0
+2,Coldstone,1,0,0,0,0,0,0,0
+3,BrewBakes,1,0,0,0,0,0,0,0
+4,OCD,1,0,0,0,0,0,0,0
+5,Lassi Shop,1,0,0,0,0,0,0,0
+6,Punjabi Dhaba,1,0,0,0,0,0,0,0
+7,Earthplate,1,0,0,0,0,0,0,0
+8,Hundreds Heritage,1,0,0,0,0,0,0,0
+9,Indian Accent,1,0,0,0,0,0,0,0
+10,Sorrento,1,0,0,0,0,0,0,0
+11,Taka Pizza,1,0,0,0,0,0,0,0
+12,Shang Palace,1,0,0,0,0,0,0,0
+13,Wraps and Fries,1,0,0,0,0,0,0,0
+14,Town Hall,1,0,0,0,0,0,0,0
+15,The Momo Place,1,0,0,0,0,0,0,0
+16,The Pavilian,1,0,0,0,0,0,0,0
+17,The Lodhi,1,0,0,0,0,0,0,0
+18,Orient Express,1,0,0,0,0,0,0,0
+19,Varg,1,0,0,0,0,0,0,0
+20,Le Cirque,1,0,0,0,0,0,0,0
+21,Berry’s Bistro,1,0,0,0,0,0,0,0
+22,Meat and Eat,1,0,0,0,0,0,0,0
+23,Chick Inn,1,0,0,0,0,0,0,0
+24,KFC,1,0,0,0,0,0,0,0
+25,Dunkin Doughnuts,1,0,0,0,0,0,0,0
+26,Darling Barbeque,1,0,0,0,0,0,0,0
+27,Pizza Hut,1,0,0,0,0,0,0,0
+28,Mc Donalds,1,0,0,0,0,0,0,0
+29,Burger King,1,0,0,0,0,0,0,0
+30,Taco Bell,1,0,0,0,0,0,0,0
+31,Limra Garder,1,0,0,0,0,0,0,0
+32,Dairy Queen,1,0,0,0,0,0,0,0
+33,M & Q,1,0,0,0,0,0,0,0
+34,Fizzy Restaurant,1,0,0,0,0,0,0,0
+35,Dosa Hut,1,0,0,0,0,0,0,0
+36,Hugo Boss,0,1,0,0,0,0,0,0
+37,Tommy Hilfiger,0,1,0,0,0,0,0,0
+38,Nike,0,1,0,0,0,0,0,0
+39,Ralph Lauren,0,1,0,0,0,0,0,0
+40,Levis,0,1,0,0,0,0,0,0
+41,Splash,0,1,0,0,0,0,0,0
+42,Mango,0,1,0,0,0,0,0,0
+43,H&M,0,1,0,0,0,0,0,0
+44,Desigual,0,1,0,0,0,0,0,0
+45,Zara,0,1,0,0,0,0,0,0
+46,Gucci,0,1,0,0,1,0,0,0
+47,Versace,0,1,0,0,0,0,0,0
+48,Calvin Klein,0,1,0,0,0,0,0,0
+49,Prada,0,1,0,0,1,0,0,0
+50,Armani Exchange,0,1,0,0,1,0,0,0
+51,Debenhams,0,1,0,0,1,0,0,0
+52,Louis Vuitton,0,1,0,0,0,0,0,0
+53,The Timberland Company,0,1,0,0,0,0,0,0
+54,Emporio Armani,0,1,0,0,0,0,0,0
+55,Givenchy,0,1,0,0,0,0,0,0
+56,Centerpoint,0,1,0,0,0,0,0,0
+57,Huda Beauty,0,0,0,0,0,0,1,0
+58,Nykaa,0,0,0,0,0,0,1,0
+59,Mac,0,0,0,0,0,0,1,0
+60,Sephora,0,0,0,0,0,0,1,0
+61,Maybelline,0,0,0,0,0,0,1,0
+62,LG,0,0,0,1,0,0,0,0
+63,Apple Store,0,0,0,1,0,0,0,0
+64,Boss,0,0,0,0,0,0,1,0
+65,boAt,0,0,0,0,0,0,1,0
+66,Sony,0,0,0,0,0,0,1,0
+67,Krispy Kreme,1,0,0,0,0,0,0,0
+68,Vasanta Bhavan,1,0,0,0,0,0,0,0
+69,Aryas,1,0,0,0,0,0,0,0
+70,The Cheesecake Factory,1,0,0,0,0,0,0,0
